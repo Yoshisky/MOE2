@@ -63,8 +63,10 @@ Found creative tab: aobd
 Found creative tab: appliedenergistics2
 Found creative tab: appliedenergistics2.facades
 Found creative tab: Extra_Cells
-Found creative tab: tabFlan3
+Found creative tab: tabFlan0
 Found creative tab: tabFlan1
+Found creative tab: tabFlan3
+Found creative tab: tabFlan2
 Found creative tab: immersiveintegration
 Found creative tab: brewing
 Found creative tab: materials
@@ -112,8 +114,8 @@ override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 1729
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1687
+getFacadesSize called. Returned: 1732
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 121
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -249,8 +251,8 @@ Found ItemStack BiblioCraft:tile.BiblioFramedChest. 64xtile.BiblioFramedChest@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 1047
-override called. Params: appliedenergistics2, item.ItemFacade, 928
+getNumberOfTypes called. Returned: 1026
+override called. Params: appliedenergistics2, item.ItemFacade, 961
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
